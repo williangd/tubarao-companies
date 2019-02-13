@@ -1,4 +1,4 @@
-# tubarao-companies
+# tubarao-tech-companies
 
 Lista de empresas de tecnologia em Tubarão.
 

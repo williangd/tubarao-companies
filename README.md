@@ -24,6 +24,7 @@ Lista de empresas de tecnologia em Tubarão.
 | Nuntec                                | [Link](http://nuntec.com.br/)            |
 | OSTEC                                 | [Link](https://www.ostec.com.br/)        |
 | Palmaweb                              | [Link](https://www.palmaweb.com.br/)     |
+| Pantera Food                          | [Link](http://panterafood.com.br/)       |
 | Projedata                             | [Link](http://www.projedata.com.br/)     |
 | RJ45                                  | [Link](http://www.rj45.com.br/)          |
 | Seven                                 | [Link](http://sevensi.com.br/)           |
